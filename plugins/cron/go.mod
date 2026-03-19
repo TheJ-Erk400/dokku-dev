@@ -1,6 +1,6 @@
 module github.com/dokku/dokku/plugins/cron
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/dokku/dokku/plugins/app-json v0.0.0-00010101000000-000000000000
@@ -26,9 +26,9 @@ require (
 	github.com/otiai10/mint v1.6.3 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pkg/sftp v1.13.5 // indirect
-	golang.org/x/crypto v0.37.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
 	golang.org/x/sync v0.13.0 // indirect
-	golang.org/x/sys v0.32.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
 	k8s.io/utils v0.0.0-20240102154912-e7106e64919e // indirect
 )
 
